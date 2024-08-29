@@ -4,5 +4,7 @@ public class NonPrimitive {
         Integer nomor2 = number;
 
         double tipeDataDouble = nomor2.doubleValue();
+
+        System.out.println(tipeDataDouble);
     }
 }
